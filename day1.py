@@ -2,7 +2,10 @@
 DAY ONE
 '''
 
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
 with open("input") as f:
     lines = f.read()
 
@@ -85,4 +88,7 @@ print(count)
 
 
 
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
